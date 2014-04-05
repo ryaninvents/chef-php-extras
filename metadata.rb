@@ -32,6 +32,7 @@ recipe            "php-extras::module_socket", "Install the php-net-socket packa
 recipe            "php-extras::module_sqlite", "Install the php5-sqlite package"
 recipe            "php-extras::module_xcache", "Install the php5-xcache package"
 recipe            "php-extras::pear", "Install the php-pear package"
+recipe            "php-extras::php_doctrine_orm", "Install the php-doctrine-orm package"
 
 attribute "php_fcgi/user",
   :display_name => "php-fcgi user",
